@@ -1,6 +1,6 @@
 # Terabit
 #### Lucas Angelino - [https://github.com/lucasangelino](https://github.com/lucasangelino)
-
+ 
 Terabit es una aplicacion de noticias producto del aprendizaje de **React**, especialmente **Next.js** Utiliza tres APIs para obtener la información. 
 
 ### **Para ejecutar la aplicación:**
